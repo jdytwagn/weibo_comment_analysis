@@ -14,13 +14,20 @@ gui_app.py为GUI界面代码，该GUI界面包括注册和登录界面，以及�
 
 <img width="1795" height="1237" alt="image" src="https://github.com/user-attachments/assets/f00e95b3-a4d9-46ee-8153-3df694e9d090" />
 
+<img width="2526" height="1470" alt="image" src="https://github.com/user-attachments/assets/b1fb3c69-5e48-4ffd-8d36-766c4c5f994f" />
+
+<img width="1794" height="1234" alt="image" src="https://github.com/user-attachments/assets/b851e566-9ead-472e-bfa6-ad5f6e6f09fb" />
+
 
 
 
 # 自定义图标
 形成的.exe文件可以自定义快捷方式的图标。但图标的格式必须是.ico格式，在快捷方式的属性中更改图标方式进行修改即可。
 
-![Uploading image.png…]()
+<img width="138" height="156" alt="image" src="https://github.com/user-attachments/assets/0b6a05fb-15f8-4b35-b87f-2771500e240b" />
+
+
+
 
 
 
