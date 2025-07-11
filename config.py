@@ -1,0 +1,4 @@
+headers = {
+    "User-Agent": "Mozilla/5.0",
+    "cookie": "XSRF-TOKEN=ETnxSzKaLsMd3qe3vsYwtwcu; SCF=AqHjNu2us-EjJmzmapvxsuAHGkTUkIUCGtejFvsS1VbmZhI1CtNl9X2HHw7HS8kFOrrcmhM0eJ1OgkvywQxpai4.; SUB=_2A25Fa1A_DeRhGeFL61UZ9yfLyTiIHXVmCe33rDV8PUNbmtANLWXakW9NQpk3XGv1MugKyAApe-euYmW3ZwjZci6N; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WFYejgrWd4_xIPY.ChEsW8A5NHD95QNSK5N1hM4S0zXWs4Dqcj_i--ciKLhiKnRi--RiK.7i-i2i--RiKyWi-zpi--Ri-i2i-iFi--fiK.7iKLs; ALF=02_1754705263; _s_tentry=weibo.com; Apache=2193410282372.3523.1752113320022; SINAGLOBAL=2193410282372.3523.1752113320022; ULV=1752113320026:1:1:1:2193410282372.3523.1752113320022:; PC_TOKEN=ba919d6307; WBPSESS=F6sLSdSSJHBPv3yhOskt9ge5qTJENZREn15in-IwCvcPdFIrnHaJxsln4H8hFdqa6HTZ54-nrpfYPA_QmmmS5Zo_-unaqZAqs1ljiCfsnWBmHKjkIuuOImWG1mxbXBRYVOd7qxWFqcwyB3BpK9NWjw=="}
+comment_api = "https://weibo.com/ajax/statuses/buildComments?flow=0&is_reload=1&id={}&is_show_bulletin=2&is_mix=0&count=20&max_id={}"
